@@ -1,5 +1,5 @@
 ### Всем привет 👋, Как дела?
-#### Меня зовут Дмитрий - Frontend-разработчик из солнечного Санкт-Петербурга
+#### Меня зовут Дмитрий - Frontend-разработчик из солнечного Санкт-Петербурга 🌞
 
 ---
 
@@ -7,7 +7,7 @@
 
   <div id="badges">
     <a href="https://t.me/s_niburu_1" target="_blank">
-      <img src="https://icons8.com/icon/63306/telegram-app" width="40" height="40" alt="telegram"/>
+      <img src="https://png.icons8.com/search/telegram-app" width="40" height="40" alt="telegram"/>
     </a>
   </div>
 
