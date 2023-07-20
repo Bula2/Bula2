@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, What's up?
+#### My name is Dmitry and I'm a Frontend developer from St. Petersburg
+
+Skills: HTML5/CSS3, Sass/Scss, JavaScript/TypeScript, REST, React/Next.js+Redux, Nest.js
 
 <!--
 **Bula2/Bula2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
