@@ -2,12 +2,12 @@
 #### Меня зовут Дмитрий - Frontend-разработчик из солнечного Санкт-Петербурга 🌞
 
 <p align="left">
- <img width="300" src="assets/gif/gif2.gif" alt="snake"/>
+ <img width="300" src="assets/gif/gif2.gif" alt="gif"/>
 </p>
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Социальные сети<img width="20" src="assets/gif/img1.gif" alt="gif"/>:
 
   <div id="badges">
     <a href="https://t.me/s_niburu_1" target="_blank">
@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Технологии<img width="20" src="assets/gif/img4.gif" alt="gif"/>:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -32,7 +32,7 @@
 
 ---
 
-### 🔧 Инструменты:
+### 🔧 Инструменты<img width="20" src="assets/gif/img3.gif" alt="gif"/>:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@
 
 ---
 
-### ♾ GitHub статистика:
+### ♾ GitHub статистика<img width="20" src="assets/gif/img2.gif" alt="gif"/>:
 
 <table>
   <tr>
