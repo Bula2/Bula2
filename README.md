@@ -49,15 +49,15 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Bula2&theme=synthwave" alt="Статистика" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Bula2&theme=react" alt="Статистика" />
     </td>
     <td>
-      <img height="195px" align="right" alt="Статистика" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bula2&layout=compact&theme=synthwave" />
+      <img height="195px" align="right" alt="Статистика" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bula2&layout=compact&theme=react" />
     </td>
   </tr>
   <tr align="center">
    <td colspan="2">
-    <img height="195px" align="center" alt="Статистика" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react" />
+    <img height="195px" align="center" alt="Статистика" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true" width="100%"/>
    </td>
  </tr>
 </table>
