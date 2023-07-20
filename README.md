@@ -1,13 +1,17 @@
 ### Всем привет 👋, Как дела?
 #### Меня зовут Дмитрий - Frontend-разработчик из солнечного Санкт-Петербурга 🌞
 
+<p align="center">
+ <img width="400" src="assets/gif/Ax9R.gif" alt="snake"/>
+</p>
+
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://t.me/s_niburu_1" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" width="40" height="40" alt="telegram"/>
+      <img src="/assets/icons/telegram.png" width="40" height="40" alt="telegram"/>
     </a>
   </div>
 
