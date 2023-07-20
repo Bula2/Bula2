@@ -7,13 +7,13 @@
 
   <div id="badges">
     <a href="https://t.me/s_niburu_1" target="_blank">
-      <img src="https://png.icons8.com/telegram-app" width="40" height="40" alt="telegram"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" width="40" height="40" alt="telegram"/>
     </a>
   </div>
 
 ---
 
-### 💻 <span style="color:blue">Технологии:</span>
+### 💻 Технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
