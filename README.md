@@ -51,9 +51,7 @@
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Bula2&theme=dark&background=000000" alt="Статистика" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="Статистика" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bula2&layout=compact&theme=vision-friendly-dark" />
-    </td>
+  
   </tr>
 </table>
 
