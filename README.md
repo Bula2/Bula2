@@ -55,6 +55,11 @@
       <img height="195px" align="right" alt="Статистика" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bula2&layout=compact&theme=synthwave" />
     </td>
   </tr>
+  <tr align="center">
+   <td colspan="2">
+    <img height="195px" align="center" alt="Статистика" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react" />
+   </td>
+ </tr>
 </table>
 
 ---
