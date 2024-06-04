@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescrip" alt="typescrip" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp
 </div>
 
 ---
