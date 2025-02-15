@@ -36,10 +36,20 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🧠 AI<img width="20" src="assets/gif/ai.gif" alt="gif"/>:
+
+<div>
+  <img src="assets/icons/gpt.png" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
+  <img src="assets/icons/deepseek-color.svg" title="Deepseek" alt="Deepseek" width="40" height="40"/>&nbsp;
+  <img src="assets/icons/cursor.svg" title="Cursor" alt="Cursor" width="40" height="40"/>&nbsp;
 </div>
 
 ---
